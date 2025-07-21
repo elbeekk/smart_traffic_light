@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Unity Projects/Tutorial"
+		},
+		{
+			"name": "ESP8266_LED_Control",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
